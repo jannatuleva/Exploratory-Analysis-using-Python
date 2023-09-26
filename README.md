@@ -1,1 +1,1 @@
-# Exploratory-Analysis-using-Python
+# Exploratory-Data-Analysis-using-Python
